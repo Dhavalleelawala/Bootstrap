@@ -1,0 +1,17 @@
+
+.box-1{
+    min-height: 250px;
+    background-color: yellow;
+}
+.box-2{
+    min-height: 250px;
+    background-color: greenyellow;
+}
+.box-3{
+    min-height: 250px;
+    background-color: gray;
+}
+.box-4{
+    min-height: 250px;
+    background-color: rgb(61, 143, 175);
+}
